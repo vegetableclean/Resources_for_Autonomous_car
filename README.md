@@ -1,6 +1,6 @@
 # QCar-Related Resources
 
-This repository contains resources related to **QCar** development. Currently, it includes example files for cameras and LiDARs to help you get started with sensor integration in ROS/ROS2 environments.
+This repository contains resources related to **QCar** https://www.quanser.com/products/qcar-2/ development. Currently, it includes example files for cameras and LiDARs to help you get started with sensor integration in ROS/ROS2 environments.
 
 ## Included Resources
 
