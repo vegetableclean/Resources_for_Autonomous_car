@@ -28,8 +28,10 @@ It includes example files for cameras and LiDARs to help you get started with se
 
 Clone the repository into your ROS workspace:
 
+##Other application
+Lidar detection https://github.com/sreesms/lidar_obstacle_detection_ros
+
 ```bash
 cd ~/your_ros_workspace/src
 git clone <your-repo-url>
-##Other application
-Lidar detection https://github.com/sreesms/lidar_obstacle_detection_ros
+
