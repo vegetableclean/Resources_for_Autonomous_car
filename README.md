@@ -31,3 +31,5 @@ Clone the repository into your ROS workspace:
 ```bash
 cd ~/your_ros_workspace/src
 git clone <your-repo-url>
+##Other application
+Lidar detection https://github.com/sreesms/lidar_obstacle_detection_ros
